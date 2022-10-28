@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
-<h3 align="center">Pure Func Founder</h3>
+<h3 align="center"><a href="https://www.purefunc.io" target="_blank">Pure Func</a> Founder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericssartorius&label=Profile%20views&color=0e75b6&style=flat" alt="ericssartorius" /> </p>
 
